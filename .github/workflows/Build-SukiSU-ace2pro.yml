@@ -123,7 +123,7 @@ jobs:
       - name: Configure Git
         run: |
           git config --global user.name "wsvg14"
-          git config --global user.email "wsvg14@outlook.com"
+          git config --global user.email "wsvg14@gmail.com"
 
       - name: Install dependencies
         run: |
