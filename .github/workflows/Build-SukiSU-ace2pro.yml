@@ -39,6 +39,7 @@ on:
           - oneplus_ace3_pro_v
           - oneplus_ace5
           - oneplus_pad2_v
+          - oneplus_pad_pro_v
           - oneplus_13
           - oneplus_13t
           - oneplus_ace5_pro
@@ -121,8 +122,8 @@ jobs:
 
       - name: Configure Git
         run: |
-          git config --global user.name "Numbersf"
-          git config --global user.email "263623064@qq.com"
+          git config --global user.name "wsvg14"
+          git config --global user.email "wsvg14@outlook.com"
 
       - name: Install dependencies
         run: |
